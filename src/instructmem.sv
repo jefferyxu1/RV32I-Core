@@ -2,7 +2,7 @@
 //`define BENCHMARK "../sim/test1_assembly.txt"
 //`define BENCHMARK "../sim/CPU_Testbench/test2_alu_assembly.txt"
 //`define BENCHMARK "../sim/CPU_Testbench/test3_mem_assembly.txt"
-`define BENCHMARK "../sim/CPU_Testbench/test4_br_assembly.txt"
+//`define BENCHMARK "../sim/CPU_Testbench/test4_br_assembly.txt"
 
 `timescale 1ns/10ps
 
